@@ -1,0 +1,23 @@
+{
+  "name": "swagdown",
+  "version": "0.0.1",
+  "description": "Markdown to Swagger polyglot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skonves/swagdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "swagger"
+  ],
+  "author": "Steve Konves",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/skonves/swagdown/issues"
+  },
+  "homepage": "https://github.com/skonves/swagdown#readme"
+}
